@@ -1,0 +1,106 @@
+{
+	"name": "Ujjawal Sharma",
+	"email": "ujjawal98kaushik@gmail.com",
+	"phone": "9012802194",
+	"image": "https://media-exp1.licdn.com/dms/image/C5103AQGaVm7QOse4dA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=8y_sM10DHI9F0kZIHUZXlmFH96d_XkfdM796SldFDeg",
+	"website": "programmingbuddy.club",
+	"twitter": "@UJJAWAL35214447",
+	"twitterURL": "https://twitter.com/UJJAWAL35214447",
+	"experiences" : [
+		{
+			"title" : "Java Developer",
+			"period": "2017 - Present",
+			"company": "Startup Hubs, San Francisco",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+	"projects": [
+		{
+			"name":"Velocity",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "Core Java",
+			"percent": "98%"
+		},
+		{
+			"name": "Java Enterprise",
+			"percent": "90%"
+		},
+		{
+			"name": "Spring Boot and Hibernate",
+			"percent": "80%"
+		},
+		{
+			"name": "C++",
+			"percent": "80%"
+		},
+		{
+			"name": "React",
+			"percent": "85%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "70%"
+		}
+		
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science",
+			"university": "University of London",
+			"period": "2011 - 2012"
+		},
+		{
+			"degree": "B.TECH(Computer Science)",
+			"university": "GGSIPU",
+			"period": "2017 - 2021"
+		}
+	],
+	"languages": [
+		{
+			"name":"Hindi",
+			"details": "Native"
+		},
+		{
+			"name":"English",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Singing",
+		"Dancing",
+		"Video Games",
+		"Coding"
+	]
+}
+
+
+
+
+
+
