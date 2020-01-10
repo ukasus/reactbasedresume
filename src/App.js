@@ -66,14 +66,15 @@ class App extends Component {
             <div className="profile-container">
                 <img className="profile" src={resume.image} alt="" />
                 <h1 className="name">{resume.name}</h1>
-                <h3 className="tagline">Full Stack Developer</h3>
+                <h3 className="tagline">Java Developer</h3>
             </div>
             
             <div className="contact-container container-block">
                 <ul className="list-unstyled contact-list">
                     <li className="email"><i className="fa fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
                     <li className="phone"><i className="fa fa-phone"></i><a href="tel:0123 456 789">{resume.phone}</a></li>
-                    <li className="website"><i className="fa fa-globe"></i><a href={resume.website} target="_blank">{resume.website}</a></li>
+                    <li className="github"><i className="fa fa-github"></i><a href={resume.githubURL} target="_blank">{resume.github}</a></li>
+                    
                     <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
                 </ul>
             </div>
@@ -103,8 +104,27 @@ class App extends Component {
             <section className="section summary-section">
                 <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                 <div className="summary">
-                    <p>Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can <a href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                    <p>A Computer Science professional seeking challenging opportunity to work for an organization to enhance my knowledge, skills and techniques which can benefit the organization.</p>
                 </div>
+            </section>
+
+            <section className="skills-section section">
+                <h2 className="section-title"><i className="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+                <div className="skillset"> 
+                    {this.renderSkills()}
+                    
+                </div>  
+            </section>
+                  
+
+            <section className="section projects-section">
+                <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
+                <div className="intro">
+                    <p>During Learning and implementing the various Languages and their frameworks i have worked on many projects and some of them are:</p>
+                </div>
+
+                {this.renderProjects()}
+
             </section>
             
             <section className="section experiences-section">
@@ -114,24 +134,9 @@ class App extends Component {
                 
             </section>
             
-            <section className="section projects-section">
-                <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
-                <div className="intro">
-                    <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
-                </div>
-
-                {this.renderProjects()}
-
-            </section>
             
-            <section className="skills-section section">
-                <h2 className="section-title"><i className="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
-                <div className="skillset"> 
-                    {this.renderSkills()}
-                    
-                </div>  
-            </section>
             
+           
         </div>
     </div>
     );

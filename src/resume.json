@@ -3,57 +3,55 @@
 	"email": "ujjawal98kaushik@gmail.com",
 	"phone": "9012802194",
 	"image": "https://media-exp1.licdn.com/dms/image/C5103AQGaVm7QOse4dA/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=8y_sM10DHI9F0kZIHUZXlmFH96d_XkfdM796SldFDeg",
-	"website": "programmingbuddy.club",
+	
 	"twitter": "@UJJAWAL35214447",
 	"twitterURL": "https://twitter.com/UJJAWAL35214447",
+	"githubURL":"https://github.com/ukasus",
+	"github":"github.com/ukasus",
 	"experiences" : [
 		{
 			"title" : "Java Developer",
 			"period": "2017 - Present",
-			"company": "Startup Hubs, San Francisco",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"company": "Self Learning and Working",
+			
+			"details": "Currently I am a freshy working on his own projects to gain more and more knowledge and eager to work for an organization in future."
 		}
 	],
 	"projects": [
 		{
-			"name":"Velocity",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Chat Application Using Socket Programming in Java",
+			"url": "https://github.com/ukasus/Chat-app-in-java",
+			"detail": "The objective of this application was to provide communication between the different user working on same network (LAN) or over the Internet."
 		},
 		{
-			"name":"DevStudio",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"A web application for maintaining data record for an organization",
+			"url": "https://github.com/ukasus/springboot-mysql",
+			"detail": "This is a web page application(website) with backend in Spring Boot framework and also some concepts of Hibernate.This goal of this application is to maintain data records of a college’ hostel students."
 		},
 		{
-			"name":"Tempo",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Web Browser using JavaFx",
+			"url": "https://github.com/ukasus/WebBrowser-in-JavaFx",
+			"detail": "This is a javafx based desktop application.The application can be used to surf internet as like in any other browser."
 		},
 		{
-			"name":"Atom",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Delta",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"E-Commerce Using MySql in Java",
+			"url": "https://github.com/ukasus?tab=repositories",
+			"detail": "The main objective of this project was to study the working of a E-Commerce and how MySql solves most of those problems; and finally use MySql to develop a basic application"
 		}
 	],
 	"skills": [
 		{
 			"name": "Core Java",
-			"percent": "98%"
+			"percent": "95%"
 		},
-		{
-			"name": "Java Enterprise",
-			"percent": "90%"
-		},
+		
 		{
 			"name": "Spring Boot and Hibernate",
 			"percent": "80%"
+		},
+		{
+			"name": "Java Enterprise",
+			"percent": "70%"
 		},
 		{
 			"name": "C++",
@@ -61,7 +59,7 @@
 		},
 		{
 			"name": "React",
-			"percent": "85%"
+			"percent": "75%"
 		},
 		{
 			"name": "HTML5 & CSS",
@@ -70,15 +68,16 @@
 		
 	],
 	"education": [
-		{
-			"degree": "MSc in Computer Science",
-			"university": "University of London",
-			"period": "2011 - 2012"
-		},
+		
 		{
 			"degree": "B.TECH(Computer Science)",
-			"university": "GGSIPU",
+			"university": "Guru Govind Singh Indraprasth University",
 			"period": "2017 - 2021"
+		},
+		{
+			"degree": "12th ",
+			"university": "CBSE",
+			"period": "2014 - 2016"
 		}
 	],
 	"languages": [
