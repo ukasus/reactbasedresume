@@ -71,8 +71,8 @@ class App extends Component {
             
             <div className="contact-container container-block">
                 <ul className="list-unstyled contact-list">
-                    <li className="email"><i className="fa fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
-                    <li className="phone"><i className="fa fa-phone"></i><a href="tel:0123 456 789">{resume.phone}</a></li>
+                    <li className="email"><i className="fa fa-envelope"></i><a href="mailto: ujjawal98kaushik@email.com">{resume.email}</a></li>
+                    <li className="phone"><i className="fa fa-phone"></i><a href="tel:9012802194">{resume.phone}</a></li>
                     <li className="github"><i className="fa fa-github"></i><a href={resume.githubURL} target="_blank">{resume.github}</a></li>
                     
                     <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
