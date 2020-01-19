@@ -75,7 +75,7 @@ class App extends Component {
                     <li className="phone"><i className="fa fa-phone"></i><a href="tel:9012802194">{resume.phone}</a></li>
                     <li className="github"><i className="fa fa-github"></i><a href={resume.githubURL} target="_blank">{resume.github}</a></li>
                     
-                    <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
+                    <li className="twitter"><i className="fa fa-linkedin"></i><a href={resume.linkedinURL} target="_blank">{resume.linkedin}</a></li>
                 </ul>
             </div>
             <div className="education-container container-block">
