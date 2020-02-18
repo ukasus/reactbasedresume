@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #D9924A;
+  color: #4CAC9D;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -161,7 +161,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #D9924A;
+  color: #d9924a;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -180,7 +180,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #D9924A;
+  background: #d9924a;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
