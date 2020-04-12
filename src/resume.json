@@ -24,6 +24,11 @@
 			"detail": "The objective of this application was to provide communication between the different user working on same network (LAN) or over the Internet."
 		},
 		{
+			"name":"Automated StonePaperScissor Web application using SpringBoot and Thymeleaf.",
+			"url": "https://github.com/ukasus/StonePaperScissor-using-springboot",
+			"detail": "This is a basic Stone Paper Scissor web app developed in SpringBoot framework with Thymeleaf template engine in which 4 players automatically and randomly will choose a option and after that their scoreboard will be displayed on web page."
+		},
+		{
 			"name":"A web application for maintaining data record for an organization",
 			"url": "https://github.com/ukasus/webapp-in-Springboot.git",
 			"detail": "This is a web page application(website) with backend in Spring Boot framework and also some concepts of Hibernate.This goal of this application is to maintain data records of a college’ hostel students."
