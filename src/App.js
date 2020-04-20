@@ -6,6 +6,7 @@ import Project from './Project';
 import Skill from './Skill';
 import Education from './Education';
 import Language from './Language';
+import Pdf from './resume.pdf';
 
 
 class App extends Component {
@@ -131,6 +132,12 @@ class App extends Component {
                 <h2 className="section-title"><i className="fa fa-briefcase"></i>Experiences</h2>
 
                 {this.renderExperiences()}
+                
+            </section>
+            <section >
+            <div className = "App">
+              <a href = {Pdf} target = "_blank" class="ButonHref ">Open Resume as a pdf</a>
+              </div>
                 
             </section>
             
