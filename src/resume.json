@@ -11,11 +11,11 @@
 	"github":"github.com/ukasus",
 	"experiences" : [
 		{
-			"title" : "Java Developer",
-			"period": "2017 - Present",
-			"company": "Self Learning and Working",
+			"title" : "Java Developer Intern",
+			"period": "December,2019 to May,2020",
+			"company": "Spade Infotech Ltd.",
 			
-			"details": "Currently,I am a freshy working on my own projects to gain more and more knowledge and eager to work for an organization in future."
+			"details": "Worked on real enterprises project based on J2EE and JSE aspects.Learned how to improve and optimize the development and developer proccess and work flows. "
 		}
 	],
 	"projects": [
@@ -47,16 +47,20 @@
 	],
 	"skills": [
 		{
-			"name": "Core Java",
+			"name": "Core Java(JSE)",
 			"percent": "95%"
 		},
 		
 		{
-			"name": "Spring Boot and Hibernate",
+			"name": "Spring Boot",
 			"percent": "80%"
 		},
 		{
-			"name": "Java Enterprise",
+			"name": "Hibernate & JPA",
+			"percent": "70%"
+		},
+		{
+			"name": "Java Enterprise(J2EE)",
 			"percent": "70%"
 		},
 		{
@@ -64,13 +68,10 @@
 			"percent": "80%"
 		},
 		{
-			"name": "React",
+			"name": "ReactJS",
 			"percent": "75%"
-		},
-		{
-			"name": "HTML5 & CSS",
-			"percent": "70%"
 		}
+		
 		
 	],
 	"education": [
