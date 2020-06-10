@@ -65,7 +65,8 @@ class App extends Component {
       <div className="wrapper">
         <div className="sidebar-wrapper">
             <div className="profile-container">
-                <img className="profile" src={resume.image} alt="" />
+                <img 
+               style={{width:"100%"}} className="profile" src={resume.image} alt="" />
                 <h1 className="name">{resume.name}</h1>
                 <h3 className="tagline">Java Developer</h3>
             </div>
