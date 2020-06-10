@@ -136,7 +136,7 @@ class App extends Component {
             </section>
             <section >
             <div className = "App">
-              <a href = {Pdf} target = "_blank" class="ButonHref ">Open Resume as a pdf</a>
+              <a href = {Pdf} target = "_blank" class="ButonHref ">Download Resume</a>
               </div>
                 
             </section>
