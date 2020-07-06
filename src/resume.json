@@ -45,9 +45,9 @@
 			"detail": "This is a javafx based desktop application.The application can be used to surf internet as like in any other browser."
 		},
 		{
-			"name":"E-Commerce Using MySql in Java",
-			"url": "https://github.com/ukasus?tab=repositories",
-			"detail": "The main objective of this project was to study the working of a E-Commerce and how MySql solves most of those problems; and finally use MySql to develop a basic application"
+			"name":"Flight Reservation and Chekin Webapp in SpringBoot",
+			"url": "https://github.com/ukasus/flightReservationWebApp",
+			"detail": "The main objective of this project was to mimic and study the basic structure and working of a Webapplication that provides the facility to book a flight over internet.This application is implemented on various frameworks like Spring Security, SpringBoot and JPA(over Hibernate)."
 		}
 	],
 	"skills": [
