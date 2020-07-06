@@ -19,6 +19,11 @@
 		}
 	],
 	"projects": [
+                 {
+			"name":"WebChat Application Using WebSockets(STOMP) in SpringBoot with SpringSecurity",
+			"url": "https://github.com/ukasus/GroupChatApplication-Using-Websockets-and-Spring-Secuirty",
+			"detail": "The objective of this application was to provide a group communication facility to users and implement the various concepts of Spring Security Framework and STOMP(over WebSockets) in SpringBoot Development."
+		},
 		{
 			"name":"Chat Application Using Socket Programming in Java",
 			"url": "https://github.com/ukasus/Chat-app-in-java",
