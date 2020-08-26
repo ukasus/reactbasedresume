@@ -7,6 +7,7 @@ import Skill from './Skill';
 import Education from './Education';
 import Language from './Language';
 import Pdf from './resume.pdf';
+import profilepic from './0.jpg'
 
 
 class App extends Component {
@@ -66,7 +67,7 @@ class App extends Component {
         <div className="sidebar-wrapper">
             <div className="profile-container">
                 <img 
-               style={{width:"100%"}} className="profile" src={resume.image} alt="" />
+               style={{width:"100%"}} className="profile" src={profilepic} alt="" />
                 <h1 className="name">{resume.name}</h1>
                 <h3 className="tagline">Java Developer</h3>
             </div>
